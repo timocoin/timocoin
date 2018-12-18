@@ -1,0 +1,2 @@
+# timocoin
+Timocoin Core 
